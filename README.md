@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ArchStanton987/ArchStanton987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pierre, junior developper based in Reims, France. I'm always eager to learn & improve !
+After working some years as a psychologist, I discovered web developpement and decided to change career.
 
-Here are some ideas to get you started:
+Main dev skills :
+- React
+- Node.js
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open for job opportunities.
+
+Check out [Batch Cooker](https://github.com/ArchStanton987/batch-cooker), my last project (still in development) :
+* https://batch-cooker.herokuapp.com
+* https://github.com/ArchStanton987/batch-cooker
